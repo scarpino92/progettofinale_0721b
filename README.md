@@ -1,5 +1,11 @@
 # PROGETTOFINALE
 
+Progetto di fine corso. Realizzazione di CRM Aziendale. 
+Installazione di bootstrap(npm i bootstrap), bootstrap icon(npm i bootstrap-icons) e ng2 search filter per la ricerca (npm i ng2-search-filter) 
+CREDENZIALI LOGIN:
+-username: admin;
+-password: 111111.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
 ## Development server
