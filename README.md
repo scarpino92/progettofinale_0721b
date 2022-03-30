@@ -7,10 +7,10 @@ CREDENZIALI LOGIN:
 -password: 111111.
 NB: Tutti gli screenshots delle varie 'pagine' sono visibili nella cartella "images".
 
-<img src="images/HomeSenzaLogin.jpg" width="400"><p>Home Page senza Login</p><br>
-<img src="images/LoginPage.jpg" width="400"><p>Pagina di Login</p><br>
-<img src="images/DettagliCliente.jpg" width="400"><p>Pagina dei Dettagli Cliente</p><br>
-<img src="images/ListaFatture.jpg" width="400"><p>Pagina della Lista Fatture</p><br>
+<img src="images/HomeSenzaLogin.jpg" width="400"><br><span>Home Page senza Login</span><br>
+<img src="images/LoginPage.jpg" width="400"><br><span>Pagina di Login</span><br>
+<img src="images/DettagliCliente.jpg" width="400"><br><span>Pagina dei Dettagli Cliente</span><br>
+<img src="images/ListaFatture.jpg" width="400"><br><span>Pagina della Lista Fatture</span><br>
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
