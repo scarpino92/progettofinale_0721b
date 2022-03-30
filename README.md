@@ -6,7 +6,7 @@ CREDENZIALI LOGIN:
 -username: admin;
 -password: 111111.
 
-<img src="images/HomeSenzaLogin.jpg" width="400"><br><span>Home Page senza Login</span>
+<img src="images/HomeSenzaLogin.jpg" width="400"><br><span>Home Page senza Login</span><br>
 <img src="images/LoginPage.jpg" width="400"><br><span>Login Page</span>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
