@@ -1,11 +1,11 @@
 # PROGETTOFINALE
 
 Progetto di fine corso. Realizzazione di CRM Aziendale. 
-Installazione di bootstrap(npm i bootstrap),ng-bootstrap(npm install @ng-bootstrap/ng-bootstrap), bootstrap icon(npm i bootstrap-icons) e ng2 search filter per la ricerca (npm i ng2-search-filter) 
+Installazione di bootstrap(npm i bootstrap),ng-bootstrap(npm install @ng-bootstrap/ng-bootstrap), bootstrap icon(npm i bootstrap-icons) e ng2 search filter per la ricerca (npm i ng2-search-filter)<br> 
 CREDENZIALI LOGIN:
 -username: admin;
--password: 111111.
-NB: Tutti gli screenshots delle varie 'pagine' sono visibili nella cartella "images".
+-password: 111111. 
+<br>NB: Tutti gli screenshots delle varie 'pagine' sono visibili nella cartella "images".
 
 <img src="images/HomeSenzaLogin.jpg" width="400"><br><span>Home Page senza Login</span><br>
 <img src="images/LoginPage.jpg" width="400"><br><span>Pagina di Login</span><br>
