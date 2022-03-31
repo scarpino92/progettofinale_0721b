@@ -8,7 +8,7 @@ CREDENZIALI LOGIN:
 <br>NB: Tutti gli screenshots delle varie 'pagine' sono visibili nella cartella "images".
 
 <img src="images/HomeSenzaLogin.jpg" width="400"><br><span>Home Page senza Login</span><br>
-<img src="images/LoginPage.jpg" width="400"><br><span>Pagina di Login</span><br>
+<img src="images/ListaClienti.jpg" width="400"><br><span>Pagina della Lista Clienti</span><br>
 <img src="images/DettagliCliente.jpg" width="400"><br><span>Pagina dei Dettagli Cliente</span><br>
 <img src="images/ListaFatture.jpg" width="400"><br><span>Pagina della Lista Fatture</span><br>
 
